@@ -9,9 +9,9 @@
   import RelatedLinks from '$lib/components/RelatedLinks.svelte';
 
   // Article metadata
-  let headline = 'Become a force for good. Join our next class.';
-  let byline = 'NYCity News Service';
-  let pubDate = '2026-01-31';
+  let headline = 'Bed-Stuy Mutual Aid Groups Rally to Feed Neighbors';
+  let byline = 'Irene Adeline Milanez';
+  let pubDate = '2025-12-16';
 
   // Related stories
   const relatedStories = [
@@ -38,48 +38,56 @@
 
   <!-- Lead Image: CUNY Journalism School building -->
   <ImageWithCaption
-    src="/example-photo.gif"
+    src="/snap.jpg"
     alt="The Craig Newmark Graduate School of Journalism is at 219 West 40th Street in Midtown Manhattan."
-    caption="The Craig Newmark Graduate School of Journalism is at 219 West 40th Street in Midtown Manhattan."
+    caption="Bed-Stuy residents bundled in puffer jackets line up for Bed-Stuy Strong’s food distribution at Herbert Von King Park in Bed-Stuy, Brooklyn on Tuesday, November 11, 2025."
     credit="Craig Newmark Graduate School of Journalism"
   />
 
   <!-- Article Body: The main story text with proper typography -->
   <ArticleBody>
     <p>
-      At the Craig Newmark Graduate School of Journalism at the City University of New York, change is in our DNA. That comes of being born in 2006, as the digital revolution was transforming our profession in ways none of us could have imagined.
+      Snow sprinkled as volunteers from mutual aid network Bed-Stuy Strong organized crates of milk, eggs, kale and apples at Herbert Von King Park on Nov. 11. Bundled in puffer jackets, area residents formed a line that followed hand-drawn signs welcoming all to collect free groceries.
     </p>
 
     <p>
-      We fashioned a school to teach the latest storytelling, entrepreneurial, and technological skills alongside reporting, writing, and ethics. Beyond that, we’ve crafted a culture that spurns complacency, that isn’t afraid to pivot before the ground under us shifts.
+Jackson Fratesi, volunteer with Bed-Stuy Strong since the COVID-19 pandemic, said the group planned the distribution after learning that November SNAP benefits would be delayed because of the government shutdown. 
+
     </p>
 
     <p>
-      Our mission is to serve the public interest – by training new journalists from varied economic, racial, and cultural backgrounds who will bring much-needed diversity to newsrooms, by helping mid-career journalists retool their skills, and by partnering with other media organizations to find new paths to excellence.
+“Bed-Stuy Strong sprung up in response to the pandemic when people were really in need,” he said. “This is just another time, but neither of these, unfortunately, are totally unique. It’s the responsibility of communities to take care of each other.”
+
     </p>
 
     <p>
-      Our low tuition rates, along with the added backing of private donors, allow candidates for our master’s degrees in journalism and engagement journalism to receive a world-class education at an affordable price. We also offer a unique bilingual master’s in journalism for students fluent in English and Spanish.
+Over at Restoration Plaza on Fulton St., City Council Member Chi Ossé distributed Thanksgiving baskets organized by volunteers from Exalt Youth and Muna Social Services. In groups of ten at a time, mostly elderly Bed-Stuy residents received bags of pantry staples, produce and meat. 
+
     </p>
 
     <p>
-      Our three media centers provide research, training, thought leadership, industry meet-ups, and financial support for quality journalistic work.
+“We’re hearing the calls to our district office,” Ossé said.“This was a president who said that he ran on affordability and making America great, but he’s letting innocent people starve.”
+
     </p>
 
     <p>
-      We also offer a robust professional education program through regular evening and weekend workshops. And we support in-depth reporting projects of professional journalists through fellowship grants.
+According to city data, more than 40,000 Bed-Stuy residents who rely on SNAP benefits saw their monthly grocery budgets shrink at the start of November. With food pantries strained and underresourced, mutual aid groups, local government and community-led efforts continue to fill the gaps left by SNAP. 
+
     </p>
 
     <p>
-      Classes are led by accomplished full-time faculty and adjuncts, who tap their networks to help students and graduates find internships, freelance opportunities and — the ultimate prize — jobs.
+Although food stamp payments have been restored, some SNAP recipients will now have to work or be in approved job training for at least 80 hours a month. The new law now includes work requirements for adults up to 64 years old, raised from 54 years old, and ended exemptions for homeless people, veterans and former foster youth. Many non-citizens who previously qualified, including refugees and asylum-seekers, will lose SNAP eligibility. Most recipients will see these changes applied at their next recertification. 
+
     </p>
 
     <p>
-      At a time when our profession is reeling from financial pressures and lack of trust, the Newmark Graduate School of Journalism is committed to producing the next generation of skilled, ethically minded, and diverse journalists.
+Ossé said his office has held weekly food distributions for the past four years, but has seen an influx of both recipients and volunteers since the beginning of November.
+
     </p>
 
     <p>
-      We invite you to be part of our world.
+“In this time of a dangerous, threatening and hostile government, it’s really amazing to see the community take care of each other to keep us safe,” he said.
+
     </p>
   </ArticleBody>
 
